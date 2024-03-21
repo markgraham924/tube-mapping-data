@@ -1,0 +1,6298 @@
+{
+    "Acton Town": {
+        "latitude": 51.5028,
+        "longitude": -0.2801,
+        "display_name": "Acton<br />Town",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Ealing Common": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "South Ealing": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Turnham Green": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 8.0
+            }
+        }
+    },
+    "Aldgate": {
+        "latitude": 51.5143,
+        "longitude": -0.0755,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Liverpool Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Tower Hill": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 40.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Liverpool Street": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 29.0
+            }
+        }
+    },
+    "Aldgate East": {
+        "latitude": 51.5154,
+        "longitude": -0.0726,
+        "display_name": "Aldgate<br />East",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Tower Hill": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Whitechapel": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 40.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Liverpool Street": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Whitechapel": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 42.0
+            }
+        }
+    },
+    "All Saints": {
+        "latitude": 51.5107,
+        "longitude": -0.013,
+        "display_name": "All<br />Saints",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Devons Road": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Poplar": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Alperton": {
+        "latitude": 51.5407,
+        "longitude": -0.2997,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Park Royal": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Sudbury Town": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Angel": {
+        "latitude": 51.5322,
+        "longitude": -0.1058,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Old Street": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 193.0
+            }
+        }
+    },
+    "Archway": {
+        "latitude": 51.5653,
+        "longitude": -0.1353,
+        "display_name": "NULL",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Highgate": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Tufnell Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 240.0
+            }
+        }
+    },
+    "Arnos Grove": {
+        "latitude": 51.6164,
+        "longitude": -0.1331,
+        "display_name": "Arnos<br />Grove",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Bounds Green": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Southgate": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 50.0
+            }
+        }
+    },
+    "Arsenal": {
+        "latitude": 51.5586,
+        "longitude": -0.1059,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Finsbury Park": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Holloway Road": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 166.0
+            }
+        }
+    },
+    "Baker Street": {
+        "latitude": 51.5226,
+        "longitude": -0.1571,
+        "display_name": "Baker<br />Street",
+        "zone": "1",
+        "total_lines": 5,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Marylebone": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Regent's Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 273.0
+            },
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Edgware Road (C)": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Great Portland Street": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 50.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Edgware Road (C)": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Great Portland Street": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 57.0
+            },
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Bond Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "St. John's Wood": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 57.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Finchley Road": {
+                            "time": 6
+                        }
+                    },
+                    {
+                        "Great Portland Street": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 42.0
+            }
+        }
+    },
+    "Balham": {
+        "latitude": 51.4431,
+        "longitude": -0.1525,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Clapham South": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Tooting Bec": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 215.0
+            }
+        }
+    },
+    "Bank": {
+        "latitude": 51.5133,
+        "longitude": -0.0886,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Liverpool Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "St. Paul's": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 213.0
+            },
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Shadwell": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 68.0
+            },
+            "Northern Line": {
+                "connections": [
+                    {
+                        "London Bridge": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Moorgate": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 220.0
+            },
+            "Waterloo & City Line": {
+                "connections": [
+                    {
+                        "Waterloo": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Barbican": {
+        "latitude": 51.5204,
+        "longitude": -0.0979,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Farringdon": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 18.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Farringdon": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 25.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Farringdon": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 35.0
+            }
+        }
+    },
+    "Barking": {
+        "latitude": 51.5396,
+        "longitude": 0.081,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "East Ham": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Upney": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "East Ham": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Barkingside": {
+        "latitude": 51.5856,
+        "longitude": 0.0887,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Fairlop": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Newbury Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 31.0
+            }
+        }
+    },
+    "Barons Court": {
+        "latitude": 51.4905,
+        "longitude": -0.2139,
+        "display_name": "Barons<br />Court",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Hammersmith": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "West Kensington": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 8.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Earl's Court": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Hammersmith": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 67.0
+            }
+        }
+    },
+    "Bayswater": {
+        "latitude": 51.5121,
+        "longitude": -0.1879,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Notting Hill Gate": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Paddington": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Notting Hill Gate": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Paddington": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Beckton": {
+        "latitude": 51.5148,
+        "longitude": 0.0613,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Gallions Reach": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Beckton Park": {
+        "latitude": 51.5087,
+        "longitude": 0.055,
+        "display_name": "Beckton<br />Park",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Cyprus": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Royal Albert": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Becontree": {
+        "latitude": 51.5403,
+        "longitude": 0.127,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Dagenham Heathway": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Upney": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 6.0
+            }
+        }
+    },
+    "Belsize Park": {
+        "latitude": 51.5504,
+        "longitude": -0.1642,
+        "display_name": "Belsize<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Chalk Farm": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Hampstead": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 283.0
+            }
+        }
+    },
+    "Bethnal Green": {
+        "latitude": 51.527,
+        "longitude": -0.0549,
+        "display_name": "Bethnal<br />Green",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Liverpool Street": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Mile End": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 230.0
+            }
+        }
+    },
+    "Blackfriars": {
+        "latitude": 51.512,
+        "longitude": -0.1031,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Mansion House": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Temple": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 34.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Mansion House": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Temple": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 75.0
+            }
+        }
+    },
+    "Blackhorse Road": {
+        "latitude": 51.5867,
+        "longitude": -0.0417,
+        "display_name": "Blackhorse<br />Road",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Tottenham Hale": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Walthamstow Central": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Blackwall": {
+        "latitude": 51.5079,
+        "longitude": -0.0066,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "East India": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Poplar": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Bond Street": {
+        "latitude": 51.5142,
+        "longitude": -0.1494,
+        "display_name": "Bond<br />Street",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Marble Arch": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Oxford Circus": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 367.0
+            },
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Green Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 245.0
+            }
+        }
+    },
+    "Borough": {
+        "latitude": 51.5011,
+        "longitude": -0.0943,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Elephant & Castle": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "London Bridge": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 288.0
+            }
+        }
+    },
+    "Boston Manor": {
+        "latitude": 51.4956,
+        "longitude": -0.325,
+        "display_name": "Boston<br />Manor",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Northfields": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Osterley": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 48.0
+            }
+        }
+    },
+    "Bounds Green": {
+        "latitude": 51.6071,
+        "longitude": -0.1243,
+        "display_name": "Bounds<br />Green",
+        "zone": "3.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Wood Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 109.0
+            }
+        }
+    },
+    "Bow Church": {
+        "latitude": 51.5273,
+        "longitude": -0.0208,
+        "display_name": "Bow<br />Church",
+        "zone": "2",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Devons Road": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Pudding Mill Lane": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Bow Road": {
+        "latitude": 51.5269,
+        "longitude": -0.0247,
+        "display_name": "Bow<br />Road",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Bromley-By-Bow": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Mile End": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 80.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Bromley-By-Bow": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Mile End": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 76.0
+            }
+        }
+    },
+    "Brent Cross": {
+        "latitude": 51.5766,
+        "longitude": -0.2136,
+        "display_name": "Brent<br />Cross",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Golders Green": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Hendon Central": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 29.0
+            }
+        }
+    },
+    "Bromley-By-Bow": {
+        "latitude": 51.5248,
+        "longitude": -0.0119,
+        "display_name": "NULL",
+        "zone": "2.5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "West Ham": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 56.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "West Ham": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 40.0
+            }
+        }
+    },
+    "Burnt Oak": {
+        "latitude": 51.6028,
+        "longitude": -0.2641,
+        "display_name": "Burnt<br />Oak",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Colindale": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Edgware": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 6.0
+            }
+        }
+    },
+    "Caledonian Road": {
+        "latitude": 51.5481,
+        "longitude": -0.1188,
+        "display_name": "Caledonian<br />Road",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Holloway Road": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 5
+                        }
+                    }
+                ],
+                "PM2.5": 119.0
+            }
+        }
+    },
+    "Camden Town": {
+        "latitude": 51.5392,
+        "longitude": -0.1426,
+        "display_name": "Camden<br />Town",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Chalk Farm": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Euston": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Kentish Town": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Mornington Crescent": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 291.0
+            }
+        }
+    },
+    "Canary Wharf": {
+        "latitude": 51.5051,
+        "longitude": -0.0209,
+        "display_name": "Canary<br />Wharf",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Heron Quays": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West India Quay": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            },
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "North Greenwich": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 187.0
+            }
+        }
+    },
+    "Cannon Street": {
+        "latitude": 51.5113,
+        "longitude": -0.0904,
+        "display_name": "Cannon<br />Street",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Mansion House": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Monument": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 57.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Mansion House": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Monument": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 102.0
+            }
+        }
+    },
+    "Canons Park": {
+        "latitude": 51.6078,
+        "longitude": -0.2947,
+        "display_name": "Canons<br />Park",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Queensbury": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Stanmore": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Chalk Farm": {
+        "latitude": 51.5441,
+        "longitude": -0.1538,
+        "display_name": "Chalk<br />Farm",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Chancery Lane": {
+        "latitude": 51.5185,
+        "longitude": -0.1111,
+        "display_name": "Chancery<br />Lane",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Holborn": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "St. Paul's": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 349.0
+            }
+        }
+    },
+    "Charing Cross": {
+        "latitude": 51.508,
+        "longitude": -0.1247,
+        "display_name": "Charing<br />Cross",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Embankment": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Picadilly Circus": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 244.0
+            },
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Embankment": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Leicester Square": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 303.0
+            }
+        }
+    },
+    "Chigwell": {
+        "latitude": 51.6177,
+        "longitude": 0.0755,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Grange Hill": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Roding Valley": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Chiswick Park": {
+        "latitude": 51.4946,
+        "longitude": -0.2678,
+        "display_name": "Chiswick<br />Park",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Acton Town": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Turnham Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 2.0
+            }
+        }
+    },
+    "Clapham Common": {
+        "latitude": 51.4618,
+        "longitude": -0.1384,
+        "display_name": "Clapham<br />Common",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Clapham North": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Clapham South": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 231.0
+            }
+        }
+    },
+    "Clapham North": {
+        "latitude": 51.4649,
+        "longitude": -0.1299,
+        "display_name": "Clapham<br />North",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Stockwell": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 307.0
+            }
+        }
+    },
+    "Clapham South": {
+        "latitude": 51.4527,
+        "longitude": -0.148,
+        "display_name": "Clapham<br />South",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Colindale": {
+        "latitude": 51.5955,
+        "longitude": -0.2502,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Hendon Central": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 20.0
+            }
+        }
+    },
+    "Colliers Wood": {
+        "latitude": 51.418,
+        "longitude": -0.1778,
+        "display_name": "Colliers<br />Wood",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "South Wimbledon": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Tooting Broadway": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 206.0
+            }
+        }
+    },
+    "Covent Garden": {
+        "latitude": 51.5129,
+        "longitude": -0.1243,
+        "display_name": "Covent<br />Garden",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Holborn": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Leicester Square": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 132.0
+            }
+        }
+    },
+    "Crossharbour & London Arena": {
+        "latitude": 51.4957,
+        "longitude": -0.0144,
+        "display_name": "Crossharbour &<br />London Arena",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Mudchute": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "South Quay": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Custom House": {
+        "latitude": 51.5095,
+        "longitude": 0.0276,
+        "display_name": "Custom<br />House",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Prince Regent": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Royal Victoria": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Cyprus": {
+        "latitude": 51.5085,
+        "longitude": 0.064,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Gallions Reach": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            }
+        }
+    },
+    "Dagenham East": {
+        "latitude": 51.5443,
+        "longitude": 0.1655,
+        "display_name": "Dagenham<br />East",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Dagenham Heathway": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Elm Park": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            }
+        }
+    },
+    "Dagenham Heathway": {
+        "latitude": 51.5417,
+        "longitude": 0.1469,
+        "display_name": "Dagenham<br />Heathway",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Devons Road": {
+        "latitude": 51.5223,
+        "longitude": -0.0173,
+        "display_name": "Devons<br />Road",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Dollis Hill": {
+        "latitude": 51.552,
+        "longitude": -0.2387,
+        "display_name": "Dollis<br />Hill",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Neasden": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Willesden Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Ealing Broadway": {
+        "latitude": 51.5152,
+        "longitude": -0.3017,
+        "display_name": "Ealing<br />Broadway",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "West Acton": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 10.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Ealing Common": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 2.0
+            }
+        }
+    },
+    "Ealing Common": {
+        "latitude": 51.5101,
+        "longitude": -0.2882,
+        "display_name": "Ealing<br />Common",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Acton Town": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "North Ealing": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Earl's Court": {
+        "latitude": 51.492,
+        "longitude": -0.1973,
+        "display_name": "Earl's<br />Court",
+        "zone": "1.5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Gloucester Road": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "High Street Kensington": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Kensington (Olympia)": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Brompton": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Kensington": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 21.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Gloucester Road": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 105.0
+            }
+        }
+    },
+    "Eastcote": {
+        "latitude": 51.5765,
+        "longitude": -0.397,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Rayners Lane": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Ruislip Manor": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 29.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Rayners Lane": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Ruislip Manor": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "East Acton": {
+        "latitude": 51.5168,
+        "longitude": -0.2474,
+        "display_name": "East<br />Acton",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "North Acton": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "White City": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 15.0
+            }
+        }
+    },
+    "East Finchley": {
+        "latitude": 51.5874,
+        "longitude": -0.165,
+        "display_name": "East<br />Finchley",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Finchley Central": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Highgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 59.0
+            }
+        }
+    },
+    "East Ham": {
+        "latitude": 51.5394,
+        "longitude": 0.0518,
+        "display_name": "East<br />Ham",
+        "zone": "3.5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Upton Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 7.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Upton Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "East India": {
+        "latitude": 51.5093,
+        "longitude": -0.0021,
+        "display_name": "East<br />India",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "East Putney": {
+        "latitude": 51.4586,
+        "longitude": -0.2112,
+        "display_name": "East<br />Putney",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Putney Bridge": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Southfields": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Edgware": {
+        "latitude": 51.6137,
+        "longitude": -0.275,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Edgware Road (B)": {
+        "latitude": 51.5199,
+        "longitude": -0.1679,
+        "display_name": "Edgware<br />Road",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Marylebone": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Paddington": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Edgware Road (C)": {
+        "latitude": 51.5203,
+        "longitude": -0.17,
+        "display_name": "Edgware<br />Road",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Paddington": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Paddington": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Paddington": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Elephant & Castle": {
+        "latitude": 51.4943,
+        "longitude": -0.1001,
+        "display_name": "Elephant &<br />Castle",
+        "zone": "1.5",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Lambeth North": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            },
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Kennington": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Elm Park": {
+        "latitude": 51.5496,
+        "longitude": 0.1977,
+        "display_name": "Elm<br />Park",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Hornchurch": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Embankment": {
+        "latitude": 51.5074,
+        "longitude": -0.1223,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Waterloo": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 227.0
+            },
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Temple": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Westminster": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 61.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Temple": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Westminster": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 104.0
+            },
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Waterloo": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 316.0
+            }
+        }
+    },
+    "Euston": {
+        "latitude": 51.5282,
+        "longitude": -0.1337,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Mornington Crescent": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Warren Street": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 280.0
+            },
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Warren Street": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 186.0
+            }
+        }
+    },
+    "Euston Square": {
+        "latitude": 51.526,
+        "longitude": -0.1359,
+        "display_name": "Euston<br />Square",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Great Portland Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 42.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Great Portland Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 54.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Great Portland Street": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 45.0
+            }
+        }
+    },
+    "Fairlop": {
+        "latitude": 51.596,
+        "longitude": 0.0912,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Hainault": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 12.0
+            }
+        }
+    },
+    "Farringdon": {
+        "latitude": 51.5203,
+        "longitude": -0.1053,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 1,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 45.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 45.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 34.0
+            }
+        }
+    },
+    "Finchley Central": {
+        "latitude": 51.6012,
+        "longitude": -0.1932,
+        "display_name": "Finchley<br />Central",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Mill Hill East": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "West Finchley": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 25.0
+            }
+        }
+    },
+    "Finchley Road": {
+        "latitude": 51.5472,
+        "longitude": -0.1803,
+        "display_name": "Finchley<br />Road",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Swiss Cottage": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Hampstead": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 39.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Wembley Park": {
+                            "time": 7
+                        }
+                    }
+                ],
+                "PM2.5": 24.0
+            }
+        }
+    },
+    "Finsbury Park": {
+        "latitude": 51.5642,
+        "longitude": -0.1065,
+        "display_name": "Finsbury<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Manor House": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 161.0
+            },
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Highbury & Islington": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Seven Sisters": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 468.0
+            }
+        }
+    },
+    "Fulham Broadway": {
+        "latitude": 51.4804,
+        "longitude": -0.195,
+        "display_name": "Fulham<br />Broadway",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Parsons Green": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Brompton": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Gallions Reach": {
+        "latitude": 51.5096,
+        "longitude": 0.0716,
+        "display_name": "Gallions<br />Reach",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Gants Hill": {
+        "latitude": 51.5765,
+        "longitude": 0.0663,
+        "display_name": "Gants<br />Hill",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Newbury Park": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Redbridge": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 55.0
+            }
+        }
+    },
+    "Gloucester Road": {
+        "latitude": 51.4945,
+        "longitude": -0.1829,
+        "display_name": "Gloucester<br />Road",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "High Street Kensington": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "South Kensington": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "South Kensington": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 24.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "South Kensington": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 147.0
+            }
+        }
+    },
+    "Golders Green": {
+        "latitude": 51.5724,
+        "longitude": -0.1941,
+        "display_name": "Golders<br />Green",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Hampstead": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 170.0
+            }
+        }
+    },
+    "Goldhawk Road": {
+        "latitude": 51.5018,
+        "longitude": -0.2267,
+        "display_name": "Goldhawk<br />Road",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Hammersmith": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Shepherd's Bush (H)": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Goodge Street": {
+        "latitude": 51.5205,
+        "longitude": -0.1347,
+        "display_name": "Goodge<br />Street",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Tottenham Court Road": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Warren Street": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 257.0
+            }
+        }
+    },
+    "Grange Hill": {
+        "latitude": 51.6132,
+        "longitude": 0.0923,
+        "display_name": "Grange<br />Hill",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Hainault": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Great Portland Street": {
+        "latitude": 51.5238,
+        "longitude": -0.1439,
+        "display_name": "Great<br />Portland<br />Street",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {}
+    },
+    "Greenford": {
+        "latitude": 51.5423,
+        "longitude": -0.3456,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Northolt": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Perivale": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 7.0
+            }
+        }
+    },
+    "Green Park": {
+        "latitude": 51.5067,
+        "longitude": -0.1428,
+        "display_name": "Green<br />Park",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Westminster": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 236.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Hyde Park Corner": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Picadilly Circus": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 144.0
+            },
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Oxford Circus": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Victoria": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 308.0
+            }
+        }
+    },
+    "Gunnersbury": {
+        "latitude": 51.4915,
+        "longitude": -0.2754,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Kew Gardens": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Turnham Green": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Hainault": {
+        "latitude": 51.603,
+        "longitude": 0.0933,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hammersmith": {
+        "latitude": 51.4936,
+        "longitude": -0.2251,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Ravenscourt Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Turnham Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 54.0
+            }
+        }
+    },
+    "Hampstead": {
+        "latitude": 51.5568,
+        "longitude": -0.178,
+        "display_name": "NULL",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hanger Lane": {
+        "latitude": 51.5302,
+        "longitude": -0.2933,
+        "display_name": "Hanger<br />Lane",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "North Acton": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Perivale": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 18.0
+            }
+        }
+    },
+    "Harlesden": {
+        "latitude": 51.5362,
+        "longitude": -0.2575,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Stonebridge Park": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Willesden Junction": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 16.0
+            }
+        }
+    },
+    "Harrow & Wealdston": {
+        "latitude": 51.5925,
+        "longitude": -0.3351,
+        "display_name": "Harrow &<br />Wealdston",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Kenton": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Harrow-on-the-Hill": {
+        "latitude": 51.5793,
+        "longitude": -0.3366,
+        "display_name": "Harrow-<br />on-the-Hill",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Northwick Park": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "North Harrow": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "West Harrow": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Hatton Cross": {
+        "latitude": 51.4669,
+        "longitude": -0.4227,
+        "display_name": "Hatton<br />Cross",
+        "zone": "5.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Heathrow Terminals 1, 2 & 3": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Heathrow Terminal 4": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Hounslow West": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 44.0
+            }
+        }
+    },
+    "Heathrow Terminals 1, 2 & 3": {
+        "latitude": 51.4713,
+        "longitude": -0.4524,
+        "display_name": "Heathrow<br />Terminals<br />1, 2 & 3",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Heathrow Terminal 4": {
+                            "time": 5
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Heathrow Terminal 4": {
+        "latitude": 51.4598,
+        "longitude": -0.4476,
+        "display_name": "Heathrow<br />Terminal 4",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hendon Central": {
+        "latitude": 51.5829,
+        "longitude": -0.2259,
+        "display_name": "Hendon<br />Central",
+        "zone": "3.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Heron Quays": {
+        "latitude": 51.5033,
+        "longitude": -0.0215,
+        "display_name": "Heron<br />Quays",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "South Quay": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "High Street Kensington": {
+        "latitude": 51.5009,
+        "longitude": -0.1925,
+        "display_name": "High<br />Street<br />Kensington",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Notting Hill Gate": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Notting Hill Gate": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Highbury & Islington": {
+        "latitude": 51.546,
+        "longitude": -0.104,
+        "display_name": "Highbury &<br />Islington",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "King's Cross St. Pancras": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Highgate": {
+        "latitude": 51.5777,
+        "longitude": -0.1458,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hillingdon": {
+        "latitude": 51.5538,
+        "longitude": -0.4499,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Ickenham": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Uxbridge": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 28.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Ickenham": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Uxbridge": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Holborn": {
+        "latitude": 51.5174,
+        "longitude": -0.12,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Tottenham Court Road": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 338.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Russell Square": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 128.0
+            }
+        }
+    },
+    "Holland Park": {
+        "latitude": 51.5075,
+        "longitude": -0.206,
+        "display_name": "Holland<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Notting Hill Gate": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Shepherd's Bush (C)": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 123.0
+            }
+        }
+    },
+    "Holloway Road": {
+        "latitude": 51.5526,
+        "longitude": -0.1132,
+        "display_name": "Holloway<br />Road",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hornchurch": {
+        "latitude": 51.5539,
+        "longitude": 0.2184,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Upminster Bridge": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            }
+        }
+    },
+    "Hounslow Central": {
+        "latitude": 51.4713,
+        "longitude": -0.3665,
+        "display_name": "Hounslow<br />Central",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Hounslow East": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Hounslow West": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 48.0
+            }
+        }
+    },
+    "Hounslow East": {
+        "latitude": 51.4733,
+        "longitude": -0.3564,
+        "display_name": "Hounslow<br />East",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Osterley": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 47.0
+            }
+        }
+    },
+    "Hounslow West": {
+        "latitude": 51.4734,
+        "longitude": -0.3855,
+        "display_name": "Hounslow<br />West",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Hyde Park Corner": {
+        "latitude": 51.5027,
+        "longitude": -0.1527,
+        "display_name": "Hyde<br />Park<br />Corner",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Knightsbridge": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 148.0
+            }
+        }
+    },
+    "Ickenham": {
+        "latitude": 51.5619,
+        "longitude": -0.4421,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Ruislip": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 28.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Ruislip": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Island Gardens": {
+        "latitude": 51.4871,
+        "longitude": -0.0101,
+        "display_name": "Island<br />Gardens",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Mudchute": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 10.0
+            }
+        }
+    },
+    "Kennington": {
+        "latitude": 51.4884,
+        "longitude": -0.1053,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Oval": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Waterloo": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 361.0
+            }
+        }
+    },
+    "Kensal Green": {
+        "latitude": 51.5304,
+        "longitude": -0.225,
+        "display_name": "Kensal<br />Green",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Queen's Park": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Willesden Junction": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 27.0
+            }
+        }
+    },
+    "Kensington (Olympia)": {
+        "latitude": 51.4983,
+        "longitude": -0.2106,
+        "display_name": "Kensington<br />(Olympia)",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Kentish Town": {
+        "latitude": 51.5507,
+        "longitude": -0.1402,
+        "display_name": "Kentish<br />Town",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Tufnell Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 271.0
+            }
+        }
+    },
+    "Kenton": {
+        "latitude": 51.5816,
+        "longitude": -0.3162,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "South Kenton": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 19.0
+            }
+        }
+    },
+    "Kew Gardens": {
+        "latitude": 51.477,
+        "longitude": -0.285,
+        "display_name": "Kew<br />Gardens",
+        "zone": "3.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Richmond": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Kilburn": {
+        "latitude": 51.5471,
+        "longitude": -0.2047,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "West Hampstead": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Willesden Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 7.0
+            }
+        }
+    },
+    "Kilburn Park": {
+        "latitude": 51.5351,
+        "longitude": -0.1939,
+        "display_name": "Kilburn<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Maida Vale": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Queen's Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 150.0
+            }
+        }
+    },
+    "Kingsbury": {
+        "latitude": 51.5846,
+        "longitude": -0.2786,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Queensbury": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Wembley Park": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 7.0
+            }
+        }
+    },
+    "King's Cross St. Pancras": {
+        "latitude": 51.5308,
+        "longitude": -0.1238,
+        "display_name": "King's Cross<br />St. Pancras",
+        "zone": "1",
+        "total_lines": 6,
+        "rail": 1,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Russell Square": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Knightsbridge": {
+        "latitude": 51.5015,
+        "longitude": -0.1607,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "South Kensington": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 137.0
+            }
+        }
+    },
+    "Ladbroke Grove": {
+        "latitude": 51.5172,
+        "longitude": -0.2107,
+        "display_name": "Ladbroke<br />Grove",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Latimer Road": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Westbourne Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Lambeth North": {
+        "latitude": 51.4991,
+        "longitude": -0.1115,
+        "display_name": "Lambeth<br />North",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Waterloo": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 173.0
+            }
+        }
+    },
+    "Lancaster Gate": {
+        "latitude": 51.5119,
+        "longitude": -0.1756,
+        "display_name": "Lancaster<br />Gate",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Marble Arch": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Queensway": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 260.0
+            }
+        }
+    },
+    "Latimer Road": {
+        "latitude": 51.5139,
+        "longitude": -0.2172,
+        "display_name": "Latimer<br />Road",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Shepherd's Bush (H)": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Leicester Square": {
+        "latitude": 51.5113,
+        "longitude": -0.1281,
+        "display_name": "Leicester<br />Square",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Tottenham Court Road": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 287.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Picadilly Circus": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 148.0
+            }
+        }
+    },
+    "Leyton": {
+        "latitude": 51.5566,
+        "longitude": -0.0053,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Leytonstone": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Stratford": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 43.0
+            }
+        }
+    },
+    "Leytonstone": {
+        "latitude": 51.5683,
+        "longitude": 0.0083,
+        "display_name": "NULL",
+        "zone": "3.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Snaresbrook": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Wanstead": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 58.0
+            }
+        }
+    },
+    "Limehouse": {
+        "latitude": 51.5123,
+        "longitude": -0.0396,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Shadwell": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Westferry": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Liverpool Street": {
+        "latitude": 51.5178,
+        "longitude": -0.0823,
+        "display_name": "Liverpool<br />Street",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 1,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 17.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 36.0
+            },
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Moorgate": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 33.0
+            }
+        }
+    },
+    "London Bridge": {
+        "latitude": 51.5052,
+        "longitude": -0.0864,
+        "display_name": "London<br />Bridge",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 1,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Southwark": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 243.0
+            }
+        }
+    },
+    "Maida Vale": {
+        "latitude": 51.53,
+        "longitude": -0.1854,
+        "display_name": "Maida<br />Vale",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Warwick Avenue": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 268.0
+            }
+        }
+    },
+    "Manor House": {
+        "latitude": 51.5712,
+        "longitude": -0.0958,
+        "display_name": "Manor<br />House",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Turnpike Lane": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 199.0
+            }
+        }
+    },
+    "Mansion House": {
+        "latitude": 51.5122,
+        "longitude": -0.094,
+        "display_name": "Mansion<br />House",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Marble Arch": {
+        "latitude": 51.5136,
+        "longitude": -0.1586,
+        "display_name": "Marble<br />Arch",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Marylebone": {
+        "latitude": 51.5225,
+        "longitude": -0.1631,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Mile End": {
+        "latitude": 51.5249,
+        "longitude": -0.0332,
+        "display_name": "Mile<br />End",
+        "zone": "2",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Stratford": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 186.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Stepney Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 82.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Stepney Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 45.0
+            }
+        }
+    },
+    "Mill Hill East": {
+        "latitude": 51.6082,
+        "longitude": -0.2103,
+        "display_name": "Mill<br />Hill<br />East",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Monument": {
+        "latitude": 51.5108,
+        "longitude": -0.0863,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Tower Hill": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 46.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Tower Hill": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 79.0
+            }
+        }
+    },
+    "Moorgate": {
+        "latitude": 51.5186,
+        "longitude": -0.0886,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 1,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Old Street": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 197.0
+            }
+        }
+    },
+    "Moor Park": {
+        "latitude": 51.6294,
+        "longitude": -0.432,
+        "display_name": "Moor<br />Park",
+        "zone": "6.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Northwood": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Rickmansworth": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 29.0
+            }
+        }
+    },
+    "Morden": {
+        "latitude": 51.4022,
+        "longitude": -0.1948,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "South Wimbledon": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 68.0
+            }
+        }
+    },
+    "Mornington Crescent": {
+        "latitude": 51.5342,
+        "longitude": -0.1387,
+        "display_name": "Mornington<br />Crescent",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Mudchute": {
+        "latitude": 51.4902,
+        "longitude": -0.0145,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Neasden": {
+        "latitude": 51.5542,
+        "longitude": -0.2503,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Wembley Park": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 7.0
+            }
+        }
+    },
+    "Newbury Park": {
+        "latitude": 51.5756,
+        "longitude": 0.0899,
+        "display_name": "Newbury<br />Park",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Northfields": {
+        "latitude": 51.4995,
+        "longitude": -0.3142,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "South Ealing": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 48.0
+            }
+        }
+    },
+    "Northolt": {
+        "latitude": 51.5483,
+        "longitude": -0.3687,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "South Ruislip": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 8.0
+            }
+        }
+    },
+    "Northwick Park": {
+        "latitude": 51.5784,
+        "longitude": -0.3184,
+        "display_name": "Northwick<br />Park",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Preston Road": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 26.0
+            }
+        }
+    },
+    "Northwood": {
+        "latitude": 51.6111,
+        "longitude": -0.424,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Northwood Hills": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 23.0
+            }
+        }
+    },
+    "Northwood Hills": {
+        "latitude": 51.6004,
+        "longitude": -0.4092,
+        "display_name": "Northwood<br />Hills",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Pinner": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 23.0
+            }
+        }
+    },
+    "North Acton": {
+        "latitude": 51.5237,
+        "longitude": -0.2597,
+        "display_name": "North<br />Acton",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "West Acton": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 14.0
+            }
+        }
+    },
+    "North Ealing": {
+        "latitude": 51.5175,
+        "longitude": -0.2887,
+        "display_name": "North<br />Ealing",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Park Royal": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "North Harrow": {
+        "latitude": 51.5846,
+        "longitude": -0.3626,
+        "display_name": "North<br />Harrow",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Pinner": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 24.0
+            }
+        }
+    },
+    "North Wembley": {
+        "latitude": 51.5621,
+        "longitude": -0.3034,
+        "display_name": "North<br />Wembley",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "South Kenton": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Wembley Central": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 31.0
+            }
+        }
+    },
+    "Notting Hill Gate": {
+        "latitude": 51.5094,
+        "longitude": -0.1967,
+        "display_name": "Notting<br />Hill Gate",
+        "zone": "1.5",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Queensway": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 200.0
+            }
+        }
+    },
+    "Old Street": {
+        "latitude": 51.5263,
+        "longitude": -0.0873,
+        "display_name": "Old<br />Street",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Osterley": {
+        "latitude": 51.4813,
+        "longitude": -0.3522,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Oval": {
+        "latitude": 51.4819,
+        "longitude": -0.113,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Stockwell": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 359.0
+            }
+        }
+    },
+    "Oxford Circus": {
+        "latitude": 51.515,
+        "longitude": -0.1415,
+        "display_name": "Oxford<br />Circus",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Picadilly Circus": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Regent's Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 263.0
+            },
+            "Central Line": {
+                "connections": [
+                    {
+                        "Tottenham Court Road": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 338.0
+            },
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Warren Street": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 296.0
+            }
+        }
+    },
+    "Paddington": {
+        "latitude": 51.5154,
+        "longitude": -0.1755,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 1,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Warwick Avenue": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 244.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Royal Oak": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 19.0
+            }
+        }
+    },
+    "Park Royal": {
+        "latitude": 51.527,
+        "longitude": -0.2841,
+        "display_name": "Park<br />Royal",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Parsons Green": {
+        "latitude": 51.4753,
+        "longitude": -0.2011,
+        "display_name": "Parsons<br />Green",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Putney Bridge": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Perivale": {
+        "latitude": 51.5366,
+        "longitude": -0.3232,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Picadilly Circus": {
+        "latitude": 51.5098,
+        "longitude": -0.1342,
+        "display_name": "Picadilly<br />Circus",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Pimlico": {
+        "latitude": 51.4893,
+        "longitude": -0.1334,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Vauxhall": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Victoria": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 460.0
+            }
+        }
+    },
+    "Pinner": {
+        "latitude": 51.5926,
+        "longitude": -0.3805,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Plaistow": {
+        "latitude": 51.5313,
+        "longitude": 0.0172,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Upton Park": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Ham": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 13.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Upton Park": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West Ham": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Poplar": {
+        "latitude": 51.5077,
+        "longitude": -0.0173,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Westferry": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "West India Quay": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Preston Road": {
+        "latitude": 51.572,
+        "longitude": -0.2954,
+        "display_name": "Preston<br />Road",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Wembley Park": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 26.0
+            }
+        }
+    },
+    "Prince Regent": {
+        "latitude": 51.5093,
+        "longitude": 0.0336,
+        "display_name": "Prince<br />Regent",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Royal Albert": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Putney Bridge": {
+        "latitude": 51.4682,
+        "longitude": -0.2089,
+        "display_name": "Putney<br />Bridge",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Queen's Park": {
+        "latitude": 51.5341,
+        "longitude": -0.2047,
+        "display_name": "Queens<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Queensbury": {
+        "latitude": 51.5942,
+        "longitude": -0.2861,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Queensway": {
+        "latitude": 51.5107,
+        "longitude": -0.1877,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Ravenscourt Park": {
+        "latitude": 51.4942,
+        "longitude": -0.2359,
+        "display_name": "Ravenscourt<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Stamford Brook": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 2.0
+            }
+        }
+    },
+    "Rayners Lane": {
+        "latitude": 51.5753,
+        "longitude": -0.3714,
+        "display_name": "Rayners<br />Lane",
+        "zone": "5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "West Harrow": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 27.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "South Harrow": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Redbridge": {
+        "latitude": 51.5763,
+        "longitude": 0.0454,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Wanstead": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 75.0
+            }
+        }
+    },
+    "Regent's Park": {
+        "latitude": 51.5234,
+        "longitude": -0.1466,
+        "display_name": "Regent's<br />Park",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Richmond": {
+        "latitude": 51.4633,
+        "longitude": -0.3013,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Roding Valley": {
+        "latitude": 51.6171,
+        "longitude": 0.0439,
+        "display_name": "Roding<br />Valley",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Woodford": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Rotherhithe": {
+        "latitude": 51.501,
+        "longitude": -0.0525,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "East London Line": {
+                "connections": [
+                    {
+                        "Wapping": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Royal Albert": {
+        "latitude": 51.5084,
+        "longitude": 0.0465,
+        "display_name": "Royal<br />Albert",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Royal Oak": {
+        "latitude": 51.519,
+        "longitude": -0.188,
+        "display_name": "Royal<br />Oak",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Westbourne Park": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 9.0
+            }
+        }
+    },
+    "Royal Victoria": {
+        "latitude": 51.5091,
+        "longitude": 0.0181,
+        "display_name": "Royal<br />Victoria",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Ruislip": {
+        "latitude": 51.5715,
+        "longitude": -0.4213,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Ruislip Manor": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 29.0
+            },
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Ruislip Manor": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Ruislip Manor": {
+        "latitude": 51.5732,
+        "longitude": -0.4125,
+        "display_name": "Ruislip<br />Manor",
+        "zone": "6",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Russell Square": {
+        "latitude": 51.523,
+        "longitude": -0.1244,
+        "display_name": "Russell<br />Square",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Seven Sisters": {
+        "latitude": 51.5822,
+        "longitude": -0.0749,
+        "display_name": "Seven<br />Sisters",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Tottenham Hale": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 305.0
+            }
+        }
+    },
+    "Shadwell": {
+        "latitude": 51.5117,
+        "longitude": -0.056,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Tower Gateway": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 11.0
+            },
+            "East London Line": {
+                "connections": [
+                    {
+                        "Wapping": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Whitechapel": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Shepherd's Bush (C)": {
+        "latitude": 51.5046,
+        "longitude": -0.2187,
+        "display_name": "Shepherd's<br />Bush",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "White City": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 118.0
+            }
+        }
+    },
+    "Shepherd's Bush (H)": {
+        "latitude": 51.5058,
+        "longitude": -0.2265,
+        "display_name": "Shepherd's<br />Bush",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Shoreditch": {
+        "latitude": 51.5227,
+        "longitude": -0.0708,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "East London Line": {
+                "connections": [
+                    {
+                        "Whitechapel": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Sloane Square": {
+        "latitude": 51.4924,
+        "longitude": -0.1565,
+        "display_name": "Sloane<br />Square",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "South Kensington": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Victoria": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 33.0
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "South Kensington": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Victoria": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 57.0
+            }
+        }
+    },
+    "Snaresbrook": {
+        "latitude": 51.5808,
+        "longitude": 0.0216,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "South Woodford": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Southfields": {
+        "latitude": 51.4454,
+        "longitude": -0.2066,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Wimbledon Park": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "South Ealing": {
+        "latitude": 51.5011,
+        "longitude": -0.3072,
+        "display_name": "South<br />Ealing",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "South Harrow": {
+        "latitude": 51.5646,
+        "longitude": -0.3521,
+        "display_name": "South<br />Harrow",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Sudbury Hill": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "South Kensington": {
+        "latitude": 51.4941,
+        "longitude": -0.1738,
+        "display_name": "South<br />Kensington",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {}
+    },
+    "South Kenton": {
+        "latitude": 51.5701,
+        "longitude": -0.3081,
+        "display_name": "South<br />Kenton",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "South Quay": {
+        "latitude": 51.5007,
+        "longitude": -0.0191,
+        "display_name": "South<br />Quay",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "South Ruislip": {
+        "latitude": 51.5569,
+        "longitude": -0.3988,
+        "display_name": "South<br />Ruislip",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "South Wimbledon": {
+        "latitude": 51.4154,
+        "longitude": -0.1919,
+        "display_name": "South<br />Wimbledon",
+        "zone": "3.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "South Woodford": {
+        "latitude": 51.5917,
+        "longitude": 0.0275,
+        "display_name": "South<br />Woodford",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Woodford": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Stamford Brook": {
+        "latitude": 51.495,
+        "longitude": -0.2459,
+        "display_name": "Stamford<br />Brook",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Turnham Green": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 2.0
+            }
+        }
+    },
+    "Stanmore": {
+        "latitude": 51.6194,
+        "longitude": -0.3028,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Stepney Green": {
+        "latitude": 51.5221,
+        "longitude": -0.047,
+        "display_name": "Stepney<br />Green",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Whitechapel": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 127.0
+            },
+            "Hammersmith & City Line": {
+                "connections": [
+                    {
+                        "Whitechapel": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 74.0
+            }
+        }
+    },
+    "Stockwell": {
+        "latitude": 51.4723,
+        "longitude": -0.123,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Vauxhall": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 639.0
+            }
+        }
+    },
+    "Stonebridge Park": {
+        "latitude": 51.5439,
+        "longitude": -0.2759,
+        "display_name": "Stonebridge<br />Park",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Bakerloo Line": {
+                "connections": [
+                    {
+                        "Wembley Central": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 46.0
+            }
+        }
+    },
+    "Stratford": {
+        "latitude": 51.5416,
+        "longitude": -0.0042,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 3,
+        "rail": 1,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "West Ham": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "St. James's Park": {
+        "latitude": 51.4994,
+        "longitude": -0.1335,
+        "display_name": "St. James's<br />Park",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Circle Line": {
+                "connections": [
+                    {
+                        "Victoria": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Westminster": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            },
+            "District Line": {
+                "connections": [
+                    {
+                        "Victoria": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Westminster": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "St. John's Wood": {
+        "latitude": 51.5347,
+        "longitude": -0.174,
+        "display_name": "St. John's<br />Wood",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Swiss Cottage": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "St. Paul's": {
+        "latitude": 51.5146,
+        "longitude": -0.0973,
+        "display_name": "St. Paul's",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Sudbury Hill": {
+        "latitude": 51.5569,
+        "longitude": -0.3366,
+        "display_name": "Sudbury<br />Hill",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Sudbury Town": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Sudbury Town": {
+        "latitude": 51.5507,
+        "longitude": -0.3156,
+        "display_name": "Sudbury<br />Town",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Surrey Quays": {
+        "latitude": 51.4933,
+        "longitude": -0.0478,
+        "display_name": "Surrey<br />Quays",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Swiss Cottage": {
+        "latitude": 51.5432,
+        "longitude": -0.1738,
+        "display_name": "Swiss<br />Cottage",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Temple": {
+        "latitude": 51.5111,
+        "longitude": -0.1141,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Tooting Bec": {
+        "latitude": 51.4361,
+        "longitude": -0.1598,
+        "display_name": "Tooting<br />Bec",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Tooting Broadway": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 234.0
+            }
+        }
+    },
+    "Tooting Broadway": {
+        "latitude": 51.4275,
+        "longitude": -0.168,
+        "display_name": "Tooting<br />Broadway",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Tottenham Court Road": {
+        "latitude": 51.5165,
+        "longitude": -0.131,
+        "display_name": "Tottenham<br />Court<br />Road",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Tottenham Hale": {
+        "latitude": 51.5882,
+        "longitude": -0.0594,
+        "display_name": "Tottenham<br />Hale",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Tower Gateway": {
+        "latitude": 51.5106,
+        "longitude": -0.0743,
+        "display_name": "Tower<br />Gateway",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Tower Hill": {
+        "latitude": 51.5098,
+        "longitude": -0.0766,
+        "display_name": "Tower<br />Hill",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Tufnell Park": {
+        "latitude": 51.5567,
+        "longitude": -0.1374,
+        "display_name": "Tufnell<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Turnham Green": {
+        "latitude": 51.4951,
+        "longitude": -0.2547,
+        "display_name": "Turnham<br />Green",
+        "zone": "2.5",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Turnpike Lane": {
+        "latitude": 51.5904,
+        "longitude": -0.1028,
+        "display_name": "Turnpike<br />Lane",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Wood Green": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 153.0
+            }
+        }
+    },
+    "Upminster": {
+        "latitude": 51.559,
+        "longitude": 0.251,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Upminster Bridge": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 2.0
+            }
+        }
+    },
+    "Upminster Bridge": {
+        "latitude": 51.5582,
+        "longitude": 0.2343,
+        "display_name": "Upminster<br />Bridge",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Upney": {
+        "latitude": 51.5385,
+        "longitude": 0.1014,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Upton Park": {
+        "latitude": 51.5352,
+        "longitude": 0.0343,
+        "display_name": "Upton<br />Park",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Uxbridge": {
+        "latitude": 51.5463,
+        "longitude": -0.4786,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Vauxhall": {
+        "latitude": 51.4861,
+        "longitude": -0.1253,
+        "display_name": "NULL",
+        "zone": "1.5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Victoria": {
+        "latitude": 51.4965,
+        "longitude": -0.1447,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 1,
+        "connections": {}
+    },
+    "Walthamstow Central": {
+        "latitude": 51.583,
+        "longitude": -0.0195,
+        "display_name": "Walthamstow<br />Central",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Wanstead": {
+        "latitude": 51.5775,
+        "longitude": 0.0288,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Wapping": {
+        "latitude": 51.5043,
+        "longitude": -0.0558,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Warren Street": {
+        "latitude": 51.5247,
+        "longitude": -0.1384,
+        "display_name": "Warren<br />Street",
+        "zone": "1",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Warwick Avenue": {
+        "latitude": 51.5235,
+        "longitude": -0.1835,
+        "display_name": "Warwick<br />Avenue",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Waterloo": {
+        "latitude": 51.5036,
+        "longitude": -0.1143,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 4,
+        "rail": 1,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Westminster": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 255.0
+            }
+        }
+    },
+    "Wembley Central": {
+        "latitude": 51.5519,
+        "longitude": -0.2963,
+        "display_name": "Wembley<br />Central",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Wembley Park": {
+        "latitude": 51.5635,
+        "longitude": -0.2795,
+        "display_name": "Wembley<br />Park",
+        "zone": "4",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {}
+    },
+    "Westbourne Park": {
+        "latitude": 51.521,
+        "longitude": -0.2011,
+        "display_name": "Westbourne<br />Park",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Westferry": {
+        "latitude": 51.5097,
+        "longitude": -0.0265,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "West India Quay": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 3.0
+            }
+        }
+    },
+    "Westminster": {
+        "latitude": 51.501,
+        "longitude": -0.1254,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {}
+    },
+    "West Acton": {
+        "latitude": 51.518,
+        "longitude": -0.2809,
+        "display_name": "West<br />Acton",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "West Brompton": {
+        "latitude": 51.4872,
+        "longitude": -0.1953,
+        "display_name": "West<br />Brompton",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "West Finchley": {
+        "latitude": 51.6095,
+        "longitude": -0.1883,
+        "display_name": "West<br />Finchley",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Woodside Park": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 17.0
+            }
+        }
+    },
+    "West Ham": {
+        "latitude": 51.5287,
+        "longitude": 0.0056,
+        "display_name": "West<br />Ham",
+        "zone": "3",
+        "total_lines": 3,
+        "rail": 1,
+        "connections": {}
+    },
+    "West Hampstead": {
+        "latitude": 51.5469,
+        "longitude": -0.1906,
+        "display_name": "West<br />Hampstead",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "West Harrow": {
+        "latitude": 51.5795,
+        "longitude": -0.3533,
+        "display_name": "West<br />Harrow",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "West India Quay": {
+        "latitude": 51.507,
+        "longitude": -0.0203,
+        "display_name": "West<br />India<br />Quay",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "West Kensington": {
+        "latitude": 51.4907,
+        "longitude": -0.2065,
+        "display_name": "West<br />Kensington",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "West Ruislip": {
+        "latitude": 51.5696,
+        "longitude": -0.4376,
+        "display_name": "West<br />Ruislip",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Whitechapel": {
+        "latitude": 51.5194,
+        "longitude": -0.0612,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 3,
+        "rail": 0,
+        "connections": {}
+    },
+    "White City": {
+        "latitude": 51.512,
+        "longitude": -0.2239,
+        "display_name": "White<br />City",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Willesden Green": {
+        "latitude": 51.5492,
+        "longitude": -0.2215,
+        "display_name": "Willesden<br />Green",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Willesden Junction": {
+        "latitude": 51.5326,
+        "longitude": -0.2478,
+        "display_name": "Willesden<br />Junction",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Wimbledon": {
+        "latitude": 51.4214,
+        "longitude": -0.2064,
+        "display_name": "NULL",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "District Line": {
+                "connections": [
+                    {
+                        "Wimbledon Park": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Wimbledon Park": {
+        "latitude": 51.4343,
+        "longitude": -0.1992,
+        "display_name": "Wimbledon<br />Park",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Woodford": {
+        "latitude": 51.607,
+        "longitude": 0.0341,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Woodside Park": {
+        "latitude": 51.6179,
+        "longitude": -0.1856,
+        "display_name": "Woodside<br />Park",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Wood Green": {
+        "latitude": 51.5975,
+        "longitude": -0.1097,
+        "display_name": "Wood<br />Green",
+        "zone": "3",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Brixton": {
+        "latitude": 51.4627,
+        "longitude": -0.1145,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Victoria Line": {
+                "connections": [
+                    {
+                        "Stockwell": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 374.0
+            }
+        }
+    },
+    "Amersham": {
+        "latitude": 51.6736,
+        "longitude": -0.607,
+        "display_name": "NULL",
+        "zone": "10",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Chalfont & Latimer": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 16.0
+            }
+        }
+    },
+    "Bermondsey": {
+        "latitude": 51.4979,
+        "longitude": -0.0637,
+        "display_name": "NULL",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Canada Water": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "London Bridge": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 231.0
+            }
+        }
+    },
+    "Chesham": {
+        "latitude": 51.7052,
+        "longitude": -0.611,
+        "display_name": "NULL",
+        "zone": "10",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Chalfont & Latimer": {
+        "latitude": 51.6679,
+        "longitude": -0.561,
+        "display_name": "Chalfont &<br />Latimer",
+        "zone": "9",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Chesham": {
+                            "time": 8
+                        }
+                    },
+                    {
+                        "Chorleywood": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Chorleywood": {
+        "latitude": 51.6543,
+        "longitude": -0.5183,
+        "display_name": "NULL",
+        "zone": "8",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Rickmansworth": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 24.0
+            }
+        }
+    },
+    "Rickmansworth": {
+        "latitude": 51.6404,
+        "longitude": -0.4733,
+        "display_name": "NULL",
+        "zone": "7",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Croxley": {
+        "latitude": 51.647,
+        "longitude": -0.4412,
+        "display_name": "NULL",
+        "zone": "7",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Metropolitan Line": {
+                "connections": [
+                    {
+                        "Moor Park": {
+                            "time": 4
+                        }
+                    },
+                    {
+                        "Watford": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 25.0
+            }
+        }
+    },
+    "Watford": {
+        "latitude": 51.6573,
+        "longitude": -0.4177,
+        "display_name": "NULL",
+        "zone": "8",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Ruislip Gardens": {
+        "latitude": 51.5606,
+        "longitude": -0.4103,
+        "display_name": "Ruislip<br />Gardens",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "South Ruislip": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "West Ruislip": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 19.0
+            }
+        }
+    },
+    "High Barnet": {
+        "latitude": 51.6503,
+        "longitude": -0.1943,
+        "display_name": "High<br />Barnet",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Totteridge & Whetstone": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 11.0
+            }
+        }
+    },
+    "Totteridge & Whetstone": {
+        "latitude": 51.6302,
+        "longitude": -0.1791,
+        "display_name": "Totteridge<br />& Whetstone",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Northern Line": {
+                "connections": [
+                    {
+                        "Woodside Park": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Cockfosters": {
+        "latitude": 51.6517,
+        "longitude": -0.1496,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Oakwood": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": 44.0
+            }
+        }
+    },
+    "Oakwood": {
+        "latitude": 51.6476,
+        "longitude": -0.1318,
+        "display_name": "NULL",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Piccadilly Line": {
+                "connections": [
+                    {
+                        "Southgate": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 46.0
+            }
+        }
+    },
+    "Southgate": {
+        "latitude": 51.6322,
+        "longitude": -0.128,
+        "display_name": "NULL",
+        "zone": "4",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Epping": {
+        "latitude": 51.6937,
+        "longitude": 0.1139,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Theydon Bois": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Theydon Bois": {
+        "latitude": 51.6717,
+        "longitude": 0.1033,
+        "display_name": "Theydon<br />Bois",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Debden": {
+        "latitude": 51.6455,
+        "longitude": 0.0838,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Loughton": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Theydon Bois": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Loughton": {
+        "latitude": 51.6412,
+        "longitude": 0.0558,
+        "display_name": "NULL",
+        "zone": "6",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Buckhurst Hill": {
+        "latitude": 51.6266,
+        "longitude": 0.0471,
+        "display_name": "Buckhurst<br />Hill",
+        "zone": "5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Central Line": {
+                "connections": [
+                    {
+                        "Loughton": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "Woodford": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Pudding Mill Lane": {
+        "latitude": 51.5343,
+        "longitude": -0.0139,
+        "display_name": "Pudding<br />Mill Lane",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Stratford": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            }
+        }
+    },
+    "Southwark": {
+        "latitude": 51.501,
+        "longitude": -0.1052,
+        "display_name": "NULL",
+        "zone": "1",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Waterloo": {
+                            "time": 1
+                        }
+                    }
+                ],
+                "PM2.5": 249.0
+            }
+        }
+    },
+    "Canada Water": {
+        "latitude": 51.4982,
+        "longitude": -0.0502,
+        "display_name": "Canada<br />Water",
+        "zone": "2",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "East London Line": {
+                "connections": [
+                    {
+                        "Rotherhithe": {
+                            "time": 1
+                        }
+                    },
+                    {
+                        "Surrey Quays": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 240.0
+            },
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "Canary Wharf": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 240.0
+            }
+        }
+    },
+    "Canning Town": {
+        "latitude": 51.5147,
+        "longitude": 0.0082,
+        "display_name": "Canning<br />Town",
+        "zone": "3",
+        "total_lines": 2,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "East India": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Royal Victoria": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 4.0
+            },
+            "Jubilee Line": {
+                "connections": [
+                    {
+                        "North Greenwich": {
+                            "time": 3
+                        }
+                    },
+                    {
+                        "West Ham": {
+                            "time": 3
+                        }
+                    }
+                ],
+                "PM2.5": 33.0
+            }
+        }
+    },
+    "North Greenwich": {
+        "latitude": 51.5005,
+        "longitude": 0.0039,
+        "display_name": "North<br />Greenwich",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {}
+    },
+    "Cutty Sark": {
+        "latitude": 51.4827,
+        "longitude": -0.0096,
+        "display_name": "Cutty<br />Sark",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Greenwich": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Island Gardens": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "Greenwich": {
+        "latitude": 51.4781,
+        "longitude": -0.0149,
+        "display_name": "NULL",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "Deptford Bridge": {
+        "latitude": 51.474,
+        "longitude": -0.0216,
+        "display_name": "Deptford<br />Bridge",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Elverson Road": {
+                            "time": 2
+                        }
+                    },
+                    {
+                        "Greenwich": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 8.0
+            }
+        }
+    },
+    "Elverson Road": {
+        "latitude": 51.4693,
+        "longitude": -0.0174,
+        "display_name": "Elverson<br />Road",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 0,
+        "connections": {
+            "Docklands Light Railway": {
+                "connections": [
+                    {
+                        "Lewisham": {
+                            "time": 2
+                        }
+                    }
+                ],
+                "PM2.5": 5.0
+            }
+        }
+    },
+    "Lewisham": {
+        "latitude": 51.4657,
+        "longitude": -0.0142,
+        "display_name": "NULL",
+        "zone": "2.5",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {}
+    },
+    "New Cross": {
+        "latitude": 51.4767,
+        "longitude": -0.0327,
+        "display_name": "New<br />Cross",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "East London Line": {
+                "connections": [
+                    {
+                        "Surrey Quays": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    },
+    "New Cross Gate": {
+        "latitude": 51.4757,
+        "longitude": -0.0402,
+        "display_name": "New<br />Cross<br />Gate",
+        "zone": "2",
+        "total_lines": 1,
+        "rail": 1,
+        "connections": {
+            "East London Line": {
+                "connections": [
+                    {
+                        "Surrey Quays": {
+                            "time": 4
+                        }
+                    }
+                ],
+                "PM2.5": ""
+            }
+        }
+    }
+}
