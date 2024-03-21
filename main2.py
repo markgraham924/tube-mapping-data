@@ -5,7 +5,7 @@ import sys
 
 pygame.init()
 
-window_size = [1920, 1080]
+window_size = [1080, 720]
 background_color = (255, 255, 255)
 padding = 50
 font = pygame.font.Font(None, 16)
@@ -27,7 +27,7 @@ with open('./preprocess/dataset/lines.csv', mode='r', encoding='utf-8') as file:
         lines[row['name']] = "#" + row['colour']
 
 keys = list(lines.keys())  
-row_index = 11
+row_index = 8
 
 lineName = keys[row_index]  
 pygame.display.set_caption(lineName)
@@ -35,7 +35,7 @@ for station, details in temp_data.items():
     if any(lineName in line for line in details.get("connections", {})):
         data[station] = details
         
-data = temp_data
+#data = temp_data
 
 def scale(value, min_old, max_old, min_new, max_new):
     return ((value - min_old) / (max_old - min_old)) * (max_new - min_new) + min_new

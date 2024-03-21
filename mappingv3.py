@@ -62,7 +62,8 @@ def a_star_modified(data, start, goal, change_penalty, pm25, forced_line=None):
             for connection in line_info['connections']:
                 for next_station, details in connection.items():
                     time = details.get('time', 0)
-                    proposed_g_score = current_cost + ((pm25 * pm25_line_level) + ((100 - pm25) * time))
+                    #proposed_g_score = current_cost + ((pm25 * pm25_line_level) + ((100 - pm25) * time))
+                    proposed_g_score = current_cost + (time * pm25_line_level)
                     line_change_penalty = change_penalty if line != last_line and last_line is not None else 0
                     proposed_g_score += line_change_penalty
                     
@@ -112,7 +113,7 @@ def reconstruct_path(came_from, start, goal):
 
 
 def find_best_path(data, start, goal, pm25):
-    path, cost, pm25_total = a_star_with_forced_start_line(data, start, goal, 0, pm25)
+    path, cost, pm25_total = a_star_with_forced_start_line(data, start, goal, 50, pm25)
     walking_distance = physicalDistance(start, goal)
     print(f"Total distance: {walking_distance:.2f} km")
     if path:
@@ -125,8 +126,8 @@ def find_best_path(data, start, goal, pm25):
         print("No path found.")
 
 
-start_station = "Brent Cross"
-goal_station = "Finchley Road"
+start_station = "Sloane Square"
+goal_station = "East Finchley"
 find_best_path(data, start_station, goal_station, 100)
 find_best_path(data, start_station, goal_station, 0)
 
