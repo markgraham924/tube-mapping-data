@@ -112,21 +112,20 @@ def reconstruct_path(came_from, start, goal):
 
 
 
-def find_best_path(data, start, goal, pm25, text_output=True):
+def find_best_path(data, start, goal, pm25):
     path, cost, pm25_total = a_star_with_forced_start_line(data, start, goal, 50, pm25)
     walking_distance = physicalDistance(start, goal)
-    if text_output:
-        print(f"Total distance: {walking_distance:.2f} km")
-        if path:
-            print("Best path found:")
-            for step in path:
-                print(step)
-            print(f"Total cost: {cost}")
-            print(f"Total PM2.5 exposure: {pm25_total:.2f}")
-        else:
-            print("No path found.")
+
+    print(f"Total distance: {walking_distance:.2f} km")
+    if path:
+        print("Best path found:")
+        for step in path:
+            print(step)
+        print(f"Total cost: {cost}")
+        print(f"Total PM2.5 exposure: {pm25_total:.2f}")
     else:
-        return path
+        print("No path found.")
+    return path
 
 
 

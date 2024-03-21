@@ -35,7 +35,7 @@ for station, details in temp_data.items():
     if any(lineName in line for line in details.get("connections", {})):
         data[station] = details
         
-#data = temp_data
+data = temp_data
 
 def scale(value, min_old, max_old, min_new, max_new):
     return ((value - min_old) / (max_old - min_old)) * (max_new - min_new) + min_new

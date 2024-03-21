@@ -2,7 +2,6 @@ import json
 import heapq
 import math
 
-
 data = json.load(open('./stations_formatted_updated v4.json', 'r', encoding='utf-8'))
 
 def physicalDistance(station1, station2):
@@ -63,7 +62,7 @@ def a_star_modified(data, start, goal, change_penalty, pm25, forced_line=None):
                 for next_station, details in connection.items():
                     time = details.get('time', 0)
                     #proposed_g_score = current_cost + ((pm25 * pm25_line_level) + ((100 - pm25) * time))
-                    proposed_g_score = current_cost + (time * pm25_line_level)
+                    proposed_g_score = current_cost + time
                     line_change_penalty = change_penalty if line != last_line and last_line is not None else 0
                     proposed_g_score += line_change_penalty
                     
@@ -94,39 +93,15 @@ def reconstruct_path(came_from, start, goal):
     segments.reverse()
 
     
-    for i, (from_station, line, to_station) in enumerate(segments):
-        
-        if i == 0:
-            path_with_changes.append(f"Start at {from_station}, take {line} towards {to_station}")
-            last_line = line
-        else:
-            
-            if line != last_line:
-                path_with_changes.append(f"Change at {from_station} to {line}, continue towards {to_station}")
-                last_line = line
-            
-            if to_station == goal and segments[i-1][2] != goal:
-                path_with_changes.append(f"Arrive at {to_station} via {line}")
-
-    return path_with_changes
+    return segments
 
 
 
 def find_best_path(data, start, goal, pm25, text_output=True):
-    path, cost, pm25_total = a_star_with_forced_start_line(data, start, goal, 50, pm25)
+    path, cost, pm25_total = a_star_with_forced_start_line(data, start, goal, 5, pm25)
     walking_distance = physicalDistance(start, goal)
-    if text_output:
-        print(f"Total distance: {walking_distance:.2f} km")
-        if path:
-            print("Best path found:")
-            for step in path:
-                print(step)
-            print(f"Total cost: {cost}")
-            print(f"Total PM2.5 exposure: {pm25_total:.2f}")
-        else:
-            print("No path found.")
-    else:
-        return path
+    
+    return path
 
 
 
