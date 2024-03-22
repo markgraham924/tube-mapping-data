@@ -7,7 +7,7 @@ def print_progress_bar(current, total, bar_length=50):
 
     print(f"\rProgress: [{arrow + spaces}] {int(round(percent * 100))}%", end='')
 
-def searchRoute(data, lines_data, start_station, end_station, max_attempts=50000):
+def searchRoute(data, lines_data, start_station, end_station, max_attempts=100000):
     graph = {}
     
     # Initialize the graph based on provided data
@@ -64,4 +64,3 @@ def searchRoute(data, lines_data, start_station, end_station, max_attempts=50000
     
     shortest_path, total_time = find_paths(start_station, end_station)
     return shortest_path, total_time
-

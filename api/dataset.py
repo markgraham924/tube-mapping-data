@@ -51,7 +51,7 @@ def reconstruct_path(came_from, current_line, start, end):
     return path
 
 def getRoute(start_station, end_station):
-    came_from, cost_so_far, graph, cost_so_far, current_line = searchRoute(data, lines_data, start_station, end_station)
-    path = reconstruct_path(came_from, current_line, start_station, end_station)
-    return path, cost_so_far[end_station]
+    return(searchRoute(data, lines_data, start_station, end_station)) # came_from, cost_so_far, graph, cost_so_far, current_line
+    #path = reconstruct_path(came_from, current_line, start_station, end_station)
+    #return path, cost_so_far[end_station]
     

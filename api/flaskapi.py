@@ -39,8 +39,9 @@ def findRoute(start_station, end_station):
         return make_response(jsonify({'Error': 'Start Station (' + start_station + ') Not Found'}), statusS)
     if statusE != 200:
         return make_response(jsonify({'Error': 'End Station (' + end_station + ') Not Found'}), statusE)
-    path, cost = getRoute(start_station, end_station)
-    return make_response(jsonify({'path': path, 'cost': cost}), 200)
+    path,total_time = getRoute(start_station, end_station)#path, cost = 
+    return make_response(jsonify({'path': path, 'cost': total_time}), 200)
+    #return make_response(jsonify({'path': path, 'cost': cost}), 200)
     
     
 
