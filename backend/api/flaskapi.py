@@ -1,9 +1,11 @@
 from flask import Flask, Blueprint, jsonify, make_response, request
 from dataset import station, stations, lines, getRoute
+from flask_cors import CORS
 
 
 api_blueprint = Blueprint('api', __name__, url_prefix='/api')
 app = Flask(__name__)
+CORS(app)
 
 
 #function to return a single station and it's data
@@ -19,6 +21,8 @@ def get_station_names():
     zone = request.args.get('zone', default=None, type=str)
     if zone:
         zones = zone.split(',')
+    else:
+        zones = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     
     response, status = stations(limit, zones)
     return make_response(jsonify(response), status)
@@ -48,4 +52,5 @@ def findRoute(start_station, end_station):
 
 app.register_blueprint(api_blueprint)
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)  # Choose whichever port you prefer
+

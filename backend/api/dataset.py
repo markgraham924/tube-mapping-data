@@ -6,9 +6,9 @@ ZONES = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 zone_floats = set(float(zone) for zone in ZONES)
 
 
-with open('./api/stations_formatted_updated v4.json', 'r', encoding='utf-8') as file:
+with open('./backend/api/stations_formatted_updated v4.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
-with open('./api/lines.json', 'r', encoding='utf-8') as file:
+with open('./backend/api/lines.json', 'r', encoding='utf-8') as file:
     lines_data = json.load(file)
 
 
